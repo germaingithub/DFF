@@ -68,34 +68,32 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "text": "Fighting against the effects of drug use and consumption of prohibited drinks ofvulnerable children;"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "text": "Support vulnerable children on the basis of moral, spiritual and material support in order to return to school and promote a spirit of work;"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "text": "Providing professional development opportunities for vulnerable children;"
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "text": "To provide socio-economic assistance to vulnerable children and elderly women in difficulty, and to promote the values of social cohesion;"
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "text": "Accompany the Foundation's beneficiaries in the development, implementation and monitoring-evaluation of their development projects;"
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "text": "Strengthen the capacities of the beneficiaries of the Foundation Destiny Focus Burundi and ensure their supervision in the fields of health, environment, peace, etc."
+    },
+    {
+      "icon": "fa fa-users",
+      "text": "Accompany other organizations working in the sector through sensitization and/orcarry out joint activities with them for the protection of children and the consolidation of peace;"
     }
   ],
   "Testimonials": [
@@ -153,33 +151,32 @@
     }
   ],
   "Contact": {
-    "address": "asjhdajkshdakjsdhaksjdh skajh kajshdkj ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    
+    "phone": "+257 61196078",
+    "email": "info@destinyfocus.org",
+    "facebook": "https://www.facebook.com/107221485209828/posts/pfbid02xjKKdCkA4mV34wbF1geSZg2bBqJheqAwqNzV5Y9cxDuZAkD7AgBCMdwuzQz7QsCYl/?app=fbl"
+
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+
+      "text": "To set up projects of supervision and development in favor of vulnerable children"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+
+      "text": "Morally and psychologically support children traumatized by the absence of their parents"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+
+      "text": "Provide material assistance to vulnerable children"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+
+      "text": "To set up listening sessions and support teachings to encourage a change in their mentality"
     }
   ]
 }
