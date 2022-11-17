@@ -15,13 +15,17 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
+          <div className="col-xs-4 col-md-1">
+            {" "}
+            <img src="img/logodff.jpeg" className="img-responsive" alt="" />{" "}
+          </div>
           <a className='navbar-brand page-scroll' href='#page-top'>
-          Destinity Focus Foundation
+          Destiny Focus Foundation
           </a>{' '}
         </div>
 
         <div
-          className='collapse navbar-collapse'
+          className='collapse navbar-collapse col-md-10'
           id='bs-example-navbar-collapse-1'
         >
           <ul className='nav navbar-nav navbar-right'>
