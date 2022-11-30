@@ -604,3 +604,6 @@ label {
     margin: 50px 0;
   }
 }
+.new-line {
+  white-space: pre-line;
+}

@@ -4,7 +4,7 @@
     "paragraph": "Everyone needs help."
   },
   "About": {
-    "paragraph": "Our vision is to create an inclusive community of equity for the contribution to peace and sustainable development through the promotion of access to education for street children; the socio-economic empowerment of street children; and the strengthening of social cohesion and patriotism  ",
+    "paragraph": "Vision: A nation where every child fulfills his/her Destiny.\n Mission: To create a just, developed, inclusive, and equitable community allowing homeless children to access rights in their fullness and achieve their destiny.",
 
     "Why": [
       "Lorem ipsum dolor",
@@ -160,21 +160,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-
-      "text": "Give Food to the Hungry : We provide food, clothing and shelter to homeless children who have been victims of floods that occurred around Lake Tanganyika in the past years and have never been set up into safe lands. One of the current priorities for the foundation is to provide basic needs to these kids; that is a safe place to live, food, and clothing."
+      "title":"Give Food to the Hungry",
+      "text": "We provide food, clothing and shelter to homeless children who have been victims of floods that occurred around Lake Tanganyika in the past years and have never been set up into safe lands. One of the current priorities for the foundation is to provide basic needs to these kids; that is a safe place to live, food, and clothing.'Right to food, clothing, and shelter'"
     },
     {
       "icon": "fa fa-bullhorn",
-      "text": "Health and Hygiene Program : Access to health care is one of the fundamental rights. As the foundation supports homeless children, health is an important aspect that can’t be left behind. Children need psychological advice for mental health as well as medical care for a healthy body."
+      "title":"Health and Hygiene Program",
+      "text": "Access to health care is one of the fundamental rights. As the foundation supports homeless children, health is an important aspect that can’t be left behind. Children need psychological advice for mental health as well as medical care for a healthy body.'Good health, good life'"
     },
     {
       "icon": "fa fa-group",
-      "text": "SDG4, Right to Education : This Program is dedicated to academic education and vocational training for homeless children and the youth. Key activities include: Enroll children in schools, provide school fee and school materials to enrolled children and follow up students’ performance and provide opportunities for capacity building etc."
+      "title":"SDG4, Right to Education",
+      "text": "This Program is dedicated to academic education and vocational training for homeless children and the youth. Key activities include: Enroll children in schools, provide school fee and school materials to enrolled children and follow up students’ performance and provide opportunities for capacity building etc.'Education is one thing no one can take away from you'"
     },
     {
       "icon": "fa fa-magic",
-
-      "text": "Law & Social protection Program : Homeless children need support to access administrative services. For example birth certificate is a condition to access other rights such as free health care for children under five years, access to free education at the fundamental level, and application for identity card & passport."
+      "title":"Law & Social protection Program",
+      "text": "Homeless children need support to access administrative services. For example birth certificate is a condition to access other rights such as free health care for children under five years, access to free education at the fundamental level, and application for identity card & passport.'Caring for children is women's nature'"
     }
   ]
 }
